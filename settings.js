@@ -54,7 +54,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['9660540637980'] //ur owner number
+global.vcardowner = ['37122219259'] //ur owner number
 global.ownername = "ABDUL RAHMAN🐼🍷 ٫" //ur owner name
 global.ytname = "YT: ABDUL RAHMAN" //ur yt chanel name
 global.socialm = "GitHub: ABDUL RAHMAN" //ur github or insta name
@@ -69,7 +69,7 @@ global.websitex = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //ur websi
 global.botscript = 'https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣عبدالرحمن⍣" //ur sticker watermark packname
+global.packname = "⍣عمرالعولقي⍣" //ur sticker watermark packname
 global.author = "⍣9660540637980⍣" //ur sticker watermark author
 
 //Bot theme media
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['9660540637980'] //ur premium numbers
+global.premium = ['+37122219259'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -105,8 +105,8 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'تم يروحي ✓',
-    admin: 'هذه الميزه للرجاله المشرفين,استرجل وجرب مره تانيه!! ',
+    success: 'تم يحلو ✓',
+    admin: 'هذه الميزة للرجالة المشرفين,استرجل وجرب مرة تانيه!! ',
     botAdmin: 'يجب أن يكون البوت مسؤولاً أولاً!',
     owner: 'هذه الميزة للمالك فقط!',
     group: 'لميزة تستخدم فقط للمجموعات!',
